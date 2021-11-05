@@ -2,9 +2,9 @@
 
 This repository will hold infomration and code lists on the medical record and other related projects which have been run through the Keele School of medicine.
 
-###Current projects
+## Current projects
 
-MIDAS Research Project
+### MIDAS Research Project
 
 Project summary:   
 
