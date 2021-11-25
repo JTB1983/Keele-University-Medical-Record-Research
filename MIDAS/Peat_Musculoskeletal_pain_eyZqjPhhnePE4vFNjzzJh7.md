@@ -66,3 +66,4 @@ The number of Concept IDs remaining after pathway 1 and 2 was felt to be impract
 Finalising the Core Set
 A final check of the Concept ID list by entering them into the SNOMED CT browser (termbrowser.nhs.uk) revealed 27 of these Concept IDs were inactive as at 30 Sep 2021. Therefore, added to the list were replacement(s) suggested within the SNOMED browser and/or Concept IDs with the same term if these were not already included. The final inclusion list contained 498 Concept IDs.
 
+image: 
